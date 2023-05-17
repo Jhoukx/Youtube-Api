@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav .row img {
+    margin: 2rem 2rem 0rem 10rem;
+    width: 8rem;
+}
+nav .row .buscador{
+    margin-top: 2rem;
+}
+nav .row .col-9 button img{
+    width: 10px;
+    height: 1px;
+}
+div.video{
+    margin: 0rem 0rem 0rem 10rem;
+    height: 35rem;
+    width: 68rem;
+}
+#tituloVideo{
+    margin: 1rem;
+    
+}
+#canal-logo{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 2rem;
+    margin-left: -10rem;
+    
+}
+#nombreCanal{
+    margin-left: 2rem;
+    font-family: cursive;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    margin-left: -5rem;
+}
+main .col-4{
+    width: 34rem;
+    padding: 1rem;
+    height: 38rem;
+}
+#comentarios{
+    text-align: left;
+    
+}
+#videosRelacionados{
+    margin-left: 10rem;
+}
+#videosRelacionados .col iframe{
+    height: 200px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.descripcion{
+    margin-top: -1rem;
+    width: fit-content;
+    background-color: rgb(234, 233, 233);;   
+}
+#descripcion{
+    height: 12.6rem;
+    width: 34rem;
+    margin-left: -12px;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.user-image{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 6px;
+}
